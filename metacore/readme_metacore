@@ -1,0 +1,2 @@
+We extracted from the METACORE database (in 2019) all known interactions (Transcription regulation, Influence on expression & Binding) between TFs [REF-MerjaPaper] and 7 known marker genes which show clear expression changes from adipocytes to osteoblasts in our own expression data: 4 high in adipocytes (ADIPOQ, FABP4, CEBPA, LPL) and 3 high in osteoblasts (ALPL, HEY1, SP7). Only measured nodes and their interactions were kept. This resulted in a network of 1,027 nodes (almost only TFs) with ~11,000 pairwise interactions.
+
